@@ -1,4 +1,4 @@
-# star_platinum
+# Star Platinum
 
 ## Other Contributors 
 
